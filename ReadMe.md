@@ -1,6 +1,5 @@
 # Paper
-## Authors Chih-Wei Chang and Benjamin Doran
-
+#### Authors Chih-Wei Chang and Benjamin Doran
 [Urban Sound Classification: With Random Forest, SVM, DNN, RNN, and CNN Classifiers](https://github.com/LibrumInsinuare/Urban-Sound-Classification/blob/master/Urban_Sound_Classification_Paper.pdf)
 
 # Presentation Slides
